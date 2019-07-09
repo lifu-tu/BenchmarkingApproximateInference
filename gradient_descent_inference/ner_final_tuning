@@ -1,0 +1,60 @@
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.252869911771
+0.231144549078
+devf1  93.89 test f1 91.03
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.254018290242
+0.231625493626
+devf1  93.86 test f1 91.03
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.252942358039
+0.231568932856
+devf1  93.76 test f1 90.86
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.253588692256
+0.232050346488
+devf1  93.7 test f1 90.89
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.252973037769
+0.231744595659
+devf1  91.58 test f1 87.94
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.253919195373
+0.232952718166
+devf1  64.71 test f1 65.11
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.504130539358
+0.462946667581
+devf1  94.14 test f1 91.29
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.504586397056
+0.462675061652
+devf1  94.13 test f1 91.43
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.504586022594
+0.462445445823
+devf1  94.03 test f1 91.46
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.506862619768
+0.463797137666
+devf1  94.04 test f1 91.01
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.505556957866
+0.463839164594
+devf1  87.41 test f1 87.11
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+37
+0.50503140499
+0.463787277863
+devf1  53.49 test f1 54.25

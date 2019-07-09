@@ -1,0 +1,5 @@
+train data: 38971 sentence; unknown ratio: 2191/892645= 0.2% if tag set size is 401 include unknow tag
+
+dev data: 1883 sentence; unknown ratio: 86/43297= 0.198%
+
+test data 2379 sentence: unknown ratio: 126/53792= 0.23%

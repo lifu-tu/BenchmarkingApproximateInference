@@ -1,0 +1,80 @@
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_50.0_epoches_10
+inference time 0.103354449706
+0.722070844687
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_50.0_epoches_20
+inference time 0.208069125089
+0.883093291813
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_50.0_epoches_30
+inference time 0.308582366597
+0.887375113533
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_50.0_epoches_40
+inference time 0.4143662366
+0.889451148307
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_50.0_epoches_50
+inference time 0.515910235318
+0.889710652653
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_10.0_epoches_10
+inference time 0.102414170179
+0.74776177501
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_10.0_epoches_20
+inference time 0.206979456815
+0.884650317893
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_10.0_epoches_30
+inference time 0.310665828531
+0.888932139613
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_10.0_epoches_40
+inference time 0.413362620094
+0.889710652653
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+Pos_sgd_Inf__LearningRate_10.0_epoches_50
+inference time 0.512218657407
+0.890618917867
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_NER__LearningRate_1.0_epoches_50
+inference time 0.440346905856
+test f1 84.39
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_NER__LearningRate_1.0_epoches_40
+inference time 0.353320247113
+test f1 84.29
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_NER__LearningRate_5.0_epoches_50
+inference time 0.436307962025
+test f1 84.2
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_NER__LearningRate_5.0_epoches_40
+inference time 0.354618548701
+test f1 84.21
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_ccctag_LearningRate_500.0_epoches_30
+inference time 0.371013461307
+testacc 0.759675642484 -526.025251134
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_ccctag_LearningRate_500.0_epoches_40
+inference time 0.490614818834
+testacc 0.867204854527 -577.549694687
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_ccctag_LearningRate_500.0_epoches_50
+inference time 0.619349072088
+testacc 0.891874808113 -586.962222662
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_ccctag_LearningRate_50.0_epoches_30
+inference time 0.368689904074
+testacc 0.728702750537 -517.949991439
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_ccctag_LearningRate_50.0_epoches_40
+inference time 0.490345484983
+testacc 0.859420996551 -576.265675968
+Using gpu device 0: TITAN X (Pascal) (CNMeM is disabled, cuDNN 5005)
+CRF_Inf_ccctag_LearningRate_50.0_epoches_50
+inference time 0.615655170931
+testacc 0.888533708981 -586.176254621
